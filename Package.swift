@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ImSDK_Plus",
-            url: "https://github.com/ishanshA4B/TencentIMSDK-SPM/releases/download/8.9.7540/ImSDK_Plus_8.9.7540.xcframework.zip",
-            checksum: "e046cf1725a8522b982e3d3a31a0a0e2c7fb5d55407830696a0d88a24f004553"
+            url: "https://github.com/ishanshA4B/TencentIMSDK-SPM/releases/download/8.0.5895/ImSDK_Plus_8.0.5895.xcframework.zip",
+            checksum: "97b52afd584dd6c2489a3a5f5e63cab288f50ed20ac69eaee00122f6b916d8d0"
         )
     ]
 )
